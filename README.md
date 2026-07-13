@@ -1,4 +1,4 @@
-# 🌟 Interactive Browser Wellness Companion
+# 🌟 My Desktop Companion — Chrome Edition
 
 An event-driven Chrome Extension (Manifest V3) that embeds an interactive wellness companion directly into your web-browsing workspace. Built to combat digital fatigue, this extension overlays a responsive companion on top of active web pages, using an asynchronous canvas engine to stream background-removed (chroma-key) video assets smoothly and without a visible bounding box.
 
@@ -96,10 +96,10 @@ No browsing data, page content, or personal information is collected, stored rem
 
 ## 🗺️ Roadmap
 
-* [ ] Chat bubbles with more personality and variety
-* [ ] Idle and waving animation states
-* [ ] Daily hydration goal tracking with a celebration animation
-* [ ] Publish to the Chrome Web Store
+*  Chat bubbles with more personality and variety
+*  Idle and waving animation states
+*  Daily hydration goal tracking with a celebration animation
+*  Publish to the Chrome Web Store
 
 ---
 
